@@ -17,7 +17,7 @@ function convertToBool(text, fault = 'true') {
 global.SESSION_ID = '' // QUEENNILU;;;hrVUFa7Z#VZ7rvH9CoR8jt8TNTq0mKVKWy1YNrmgX163HTvNFa_g 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = '' QUEENNILU;;;hrVUFa7Z#VZ7rvH9CoR8jt8TNTq0mKVKWy1YNrmgX163HTvNFa_g
 
  
 
