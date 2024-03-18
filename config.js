@@ -14,7 +14,7 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // QUEENNILU;;;hrVUFa7Z#VZ7rvH9CoR8jt8TNTq0mKVKWy1YNrmgX163HTvNFa_g 
+global.SESSION_ID = '' // postgres://nadeen_user:7LdcnxSYDM3LHRrtWa4DrtjO67nkHXPN@dpg-cn31b07109ks73em4mp0-a.frankfurt-postgres.render.com/nadeen 
 
 // databse URL  ##Required 
 global.POSTGRESQL_URL = '' QUEENNILU;;;hrVUFa7Z#VZ7rvH9CoR8jt8TNTq0mKVKWy1YNrmgX163HTvNFa_g
@@ -41,7 +41,7 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = 'DINKA'
 
 global.FOOTER = 'Queen Nilu 2024'
 
@@ -53,7 +53,7 @@ global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
-global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2024' // Caption
+global.CAPTION = 'DINKA BOT' // Caption
 
 global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
 
@@ -89,6 +89,6 @@ global.VOICE_REPLY = true
 
 /* V card */
 
-global.ytname = "YT: janithsadanuwan" //ur yt chanel name
+global.ytname = "YT: NADEEN" //ur yt chanel name
 global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
 global.location = "Srilanka, colombo" //ur location
